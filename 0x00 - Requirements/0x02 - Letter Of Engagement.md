@@ -11,12 +11,14 @@
 
 # 🛠️ Recommended Tools
 
-⛏️ Nmap
-🔨 Dirb
-🪓 Nikto
-🔧 WPScan
-🪛 CrackMapExec
-⚔️ The Metasploit Framework
-🧲 Searchsploit
-⚖️ Hydra
+## ⛏️ Nmap
+## 🔨 Dirb
+## 🪓 Nikto
+## 🔧 WPScan
+## 🪛 CrackMapExec
+## ⚔️ The Metasploit Framework
+## 🧲 Searchsploit
+## ⚖️ Hydra
+
+# Scope
 
