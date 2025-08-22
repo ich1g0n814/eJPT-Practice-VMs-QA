@@ -1,11 +1,11 @@
 
-# Kali Linux 2023.1 (Download)
+# 🐧 Kali Linux 2023.1 (Download)
 
 ## Official download URL
 
 [https://old.kali.org/base-images/kali-2023.1/kali-linux-2023.1-vmware-amd64.7z](https://old.kali.org/base-images/kali-2023.1/kali-linux-2023.1-vmware-amd64.7z)
 
-# VMware® Workstation 17 Pro 17.6.1 build-24319023 (Download)
+# ⬇️ VMware® Workstation 17 Pro 17.6.1 build-24319023 (Download)
 
 Login to the Broadcom Support Portal https://support.broadcom.com/
 
