@@ -1,2 +1,7 @@
-# eJPT-Practice-VMs-QA
-"Máquinas virtuales para practicar y preparar el examen de certificación eJPT (eLearnSecurity Junior Penetration Tester)"
+
+# 🚀 eJPT Practice VMs QA  
+### 🎯 Máquinas virtuales para practicar para el examen eJPT (Junior Penetration Tester)
+
+---
+
+## 📦 Estructura del repositorio
