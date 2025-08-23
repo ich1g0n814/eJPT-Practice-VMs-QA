@@ -13,5 +13,9 @@
 
 ![[Pasted image 20250823083314.png]]
 
-Descargar y descomprimir las maquina virtuales
+Descargar, descomprimir y abrir las maquina virtuales en vmware workstation
+
+![[Pasted image 20250823084732.png]]
+
+![[Pasted image 20250823084904.png]]
 
