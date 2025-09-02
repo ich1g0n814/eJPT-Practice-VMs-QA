@@ -1,21 +1,21 @@
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823082624.png]]
+![Broadcom](attachments/Lab-Configuration-01.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823082729.png]]
+![Broadcom](attachments/Lab-Configuration-02.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823082827.png]]
+![Broadcom](attachments/Lab-Configuration-03.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823083052.png]]
+![Broadcom](attachments/Lab-Configuration-04.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823083142.png]]
+![Broadcom](attachments/Lab-Configuration-05.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823083213.png]]
+![Broadcom](attachments/Lab-Configuration-06.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823083314.png]]
+![Broadcom](attachments/Lab-Configuration-07.png)
 
 Descargar, descomprimir y abrir las maquina virtuales en vmware workstation
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823084732.png]]
+![Broadcom](attachments/Lab-Configuration-08.png)
 
-![[0x01-Lab-Configuration/attachments/Pasted image 20250823084904.png]]
+![Broadcom](attachments/Lab-Configuration-09.png)
 
