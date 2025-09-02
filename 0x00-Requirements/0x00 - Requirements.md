@@ -13,7 +13,7 @@ After successful login, access the VMware Workstation Pro downloads using the li
 
 Expand VMware Workstation Pro17.0 for Windows section
 
-![Broadcom](0x00-Requirements/attachments/requirements-01.png)
+![Broadcom](attachments/requirements-01.png)
 
 Select the version you want to download under the release column.
 
